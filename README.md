@@ -1,7 +1,7 @@
 # ESYS_A2
 Embedded Systems Assignment 2 Code  
   
-obstacle detection using opencv and tensorflow to detect obstacles in any video named input.mp4 in the same directory as this application ("obstacleDetect")  
+Python Obstacle detection program using OpenCV and TensorFlow. Accepts input in the form of a video file. Used for Assignment 2 to measure the differences in performance for each different architecture emulated in QEMU.  
   
 How to Install and Run:  
 1. clone project
